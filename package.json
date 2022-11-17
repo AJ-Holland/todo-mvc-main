@@ -1,0 +1,23 @@
+{
+  "name": "todo-mvc-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJ-Holland/todo-mvc-main.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJ-Holland/todo-mvc-main/issues"
+  },
+  "homepage": "https://github.com/AJ-Holland/todo-mvc-main#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

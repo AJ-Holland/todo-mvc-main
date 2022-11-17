@@ -1,4 +1,4 @@
-const exress = require('express')
+const express = require('express')
 const app = express()
 const connectDB = require('./config/database')
 const homeRoutes = require('./routes/home')
